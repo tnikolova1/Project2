@@ -1,3 +1,14 @@
 body {
  background-color: pink;
  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: green;
+  }
+h1 {
+  text-align: center;
+}
