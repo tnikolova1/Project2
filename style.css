@@ -59,14 +59,14 @@ ul {
   min-height: 200px;
   min-width: 120px;
   display: inline;
-  float: center;
+  float: none;
   margin:15%;
   }
 .dobby3 {
   min-height: 200px;
   min-width: 120px;
   display: inline;
-  float: center;
+  float: right;
   margin:0%;
   }
 .dobby4 {
