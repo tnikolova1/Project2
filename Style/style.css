@@ -170,42 +170,46 @@ nav {
   text-align: center;
   }
 .bg3 {
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
   float: left;
+  width: 33.33%;
+  padding: 5px;
+  position: static;
+  
+  
+  
   }
 .Bg1 {
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
-  float: left;
-  margin: 20%;
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+  position:static;
+  
+  
+  
   }
 .Bg2 {
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
   float: left;
+  width: 33.33%;
+  padding: 5px;
+  position: static;
   }
 .Bg5 { 
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
   float: right;
+  width: 33.33%;
+  padding: 5px;
+  position:static;
   }
 .Bg4 { 
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
   float: left;
+  width: 33.33%;
+  padding: 5px;
+  position: static;
   }
 .Bg6 { 
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
-  float: left;
-  margin: 20%;
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+  position:static;
   }
 
 .title {
@@ -245,20 +249,21 @@ h2 {
   font-family: helvetica;
   width: 100%;
   }
-li {
-  font-weight: bold;
-  font-style: italic;
-  text-align: center;
-  color: navy;
-  font-family: helvetica;
-  width: 100%;
-  }
+
 .skills {
   text-align: center;
   color: Brown;
   font-family: helvetica;
   width: 100%;
 }
+.Skills {
+  text-align: center;
+  color:Red;
+  line-height:1.6;
+  font-weight:bold;
+  font-family: helvetica;
+  width: 100%;
+  }
 .education {
   text-align: center;
   color: Brown;
@@ -277,5 +282,11 @@ li {
   color: green;
   font-family: 'Indie Flower', cursive;
   }
-
+div{
+  text-align:center;
+  color: Red;
+  font-weight:bold;
+  font-family: helvetica;
+  width:100%
+  }
   
