@@ -48,38 +48,36 @@ nav {
   font-size: 16pt;
   }
 .dobby1 {
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
   float: left;
+  width: 45%;
+  padding: 10px;
+  position: static;
   
   }
 .dobby2 {
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
-  float: none;
-  margin:15%;
+  float: right;
+  width: 45%;
+  padding: 0px;
+  position: static;
   }
 .dobby3 {
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
   float: right;
-  margin:0%;
+  width: 45%;
+  padding: 5px;
+  position: static;
   }
 .dobby4 {
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
   float: left;
+  width: 45%;
+  padding: 5px;
+  position: static;
   
   }
 .dobby5 {
-  min-height: 200px;
-  min-width: 120px;
-  display: inline;
-  float: right;
+ float: left;
+  width: 45%;
+  padding: 5px;
+  position: static;
   }
 
 
